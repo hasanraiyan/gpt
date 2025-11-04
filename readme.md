@@ -12,9 +12,6 @@ User Content
 
 Any content entered by users (such as questions or prompts) is processed only to generate responses during the conversation. Portfolio does not retain, record, or transmit this information beyond the active chat session.
 
-Third Parties
-
-Portfolio does not connect to or share data with any external services beyond OpenAI’s platform.
 
 Contact
 
