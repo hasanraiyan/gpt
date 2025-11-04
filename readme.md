@@ -1,4 +1,3 @@
-Privacy Policy for “Portfolio”
 
 Last updated: November 4, 2025
 
